@@ -1,7 +1,7 @@
 # Asaph Bastos
 
 
-Me chamo Asaph, tenho 19 anos e atualmente estou cursando Defesa Cibernética na FIAP. Tenho habilidades com sistemas Linux e Windows, redes de computadores e programação em Python e C, com forte interesse em Segurança da Informação e Infraestrutura de TI.
+Me chamo Asaph, tenho 19 anos e atualmente estou cursando Defesa Cibernética na FIAP. Tenho habilidades em sistemas Linux e Windows, redes de computadores e programação nas linguagens Python e C, com forte interesse em Segurança da Informação e Infraestrutura de TI.
 
 
 
